@@ -1,5 +1,5 @@
 # Google Apps Script Project: testCrossFilter
-This repo (testCrossFilter) was automatically updated on 15 September 2015 11:47:37 BST by GasGit
+This repo (testCrossFilter) was automatically updated on 28 September 2015 17:42:45 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project testCrossFilter
@@ -45,6 +45,6 @@ cDriverDataStore| cDriverDataStore|MPZF_EC6nOZFAjMRqCxEaUyz3TLx7pV4j|6|no|[here]
 ### Enabled Google Services
 *library*|*identifier*|*version*
 --- | --- | --- 
-Drive API| Drive|v2
+FusionTables| FusionTables|v1
 ###Need more detail ?
 You can see [full project info as json here](info.json)
