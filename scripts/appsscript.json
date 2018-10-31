@@ -1,0 +1,20 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "enabledAdvancedServices": [{
+      "userSymbol": "FusionTables",
+      "serviceId": "fusiontables",
+      "version": "v1"
+    }],
+    "libraries": [{
+      "userSymbol": "cCrossFilter",
+      "libraryId": "1vDoh4PMd5hTYtvAMCh9KuCe7N1ab9zKnD15IFn4SIMDYYMODTj8Mx_Dr",
+      "version": "2"
+    }, {
+      "userSymbol": "cDataHandler",
+      "libraryId": "1jw6jaQaCHI1LYVUlxfk1jKQNWTq9j60xoHP5dxV5AwdqI7B22mVJKwfA",
+      "version": "69"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
